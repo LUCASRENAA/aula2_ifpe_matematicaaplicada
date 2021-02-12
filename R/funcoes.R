@@ -28,6 +28,6 @@ somar <- function(a,b) {
 #'-1
 #'
 #' @export
-subtrair <- function(a,b){
+subtract <- function(a,b){
   a - b
 }
